@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dinner.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Dinner.WebApi.Controllers.TokenController">
+            <summary>
+            获取令牌
+            </summary>
+        </member>
+        <member name="M:Dinner.WebApi.Controllers.TokenController.Login(System.String)">
+            <summary>
+            登录获取令牌
+            </summary>
+            <param name="userName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Dinner.WebApi.Controllers.WeatherForecastController">
+            <summary>
+            首页
+            </summary>
+        </member>
+        <member name="M:Dinner.WebApi.Controllers.WeatherForecastController.Get">
+            <summary>
+            读取数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Dinner.WebApi.Controllers.WeatherForecastController.GetUser(Dinner.Model.User)">
+            <summary>
+            获取用户
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Dinner.WebApi.Setup.AuthorizationSetup">
+            <summary>
+            令牌
+            </summary>
+        </member>
+    </members>
+</doc>

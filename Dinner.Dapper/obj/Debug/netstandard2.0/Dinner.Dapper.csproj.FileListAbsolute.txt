@@ -1,0 +1,9 @@
+F:\自学项目\Dinner\Dinner.Dapper\bin\Debug\netstandard2.0\Dinner.Dapper.deps.json
+F:\自学项目\Dinner\Dinner.Dapper\bin\Debug\netstandard2.0\Dinner.Dapper.dll
+F:\自学项目\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.csprojAssemblyReference.cache
+F:\自学项目\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.AssemblyInfoInputs.cache
+F:\自学项目\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.AssemblyInfo.cs
+F:\自学项目\Dinner\Dinner.Dapper\bin\Debug\netstandard2.0\Dinner.Dapper.pdb
+F:\自学项目\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.dll
+F:\自学项目\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.pdb
+F:\自学项目\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.csproj.CoreCompileInputs.cache

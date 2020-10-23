@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dinner.Model</name>
+    </assembly>
+    <members>
+        <member name="T:Dinner.Model.TokenModel">
+            <summary>
+            令牌
+            </summary>
+        </member>
+        <member name="P:Dinner.Model.TokenModel.Uid">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:Dinner.Model.TokenModel.Role">
+            <summary>
+            角色
+            </summary>
+        </member>
+        <member name="T:Dinner.Model.User">
+            <summary>
+            用户表
+            </summary>
+        </member>
+        <member name="P:Dinner.Model.User.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+    </members>
+</doc>

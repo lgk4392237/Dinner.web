@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8xp9ieNCZiX5G1K5Spxc7TkLT3HWD8ucGm87g2ER4+pMvIAibnaMoYA5HrBRw/07yAaFufDEnsRYr2UJkkITcg==",
+  "success": true,
+  "projectFilePath": "F:\\自学项目\\Dinner\\Dinner.IService\\Dinner.IService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lgk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lgk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

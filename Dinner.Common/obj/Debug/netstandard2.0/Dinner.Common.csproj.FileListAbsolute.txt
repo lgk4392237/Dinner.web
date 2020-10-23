@@ -1,0 +1,13 @@
+F:\自学项目\Dinner\Dinner.Common\bin\Debug\netstandard2.0\Dinner.Common.deps.json
+F:\自学项目\Dinner\Dinner.Common\bin\Debug\netstandard2.0\Dinner.Common.dll
+F:\自学项目\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.csprojAssemblyReference.cache
+F:\自学项目\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.AssemblyInfoInputs.cache
+F:\自学项目\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.AssemblyInfo.cs
+F:\自学项目\Dinner\Dinner.Common\bin\Debug\netstandard2.0\Dinner.Common.pdb
+F:\自学项目\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.dll
+F:\自学项目\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.pdb
+F:\自学项目\Dinner\Dinner.Common\bin\Debug\netstandard2.0\Dinner.Model.dll
+F:\自学项目\Dinner\Dinner.Common\bin\Debug\netstandard2.0\Dinner.Model.pdb
+F:\自学项目\Dinner\Dinner.Common\bin\Debug\netstandard2.0\Dinner.Model.xml
+F:\自学项目\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.csproj.CopyComplete
+F:\自学项目\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.csproj.CoreCompileInputs.cache
